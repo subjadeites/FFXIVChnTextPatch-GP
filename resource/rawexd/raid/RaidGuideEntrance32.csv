@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_RAIDGUIDEENTRANCE32_LIGHTKIX_000_000","呼哧……呼哧……<hex:02100103>我是監視員 工作是監視！<hex:02100103>迎擊 擊退 要另拿錢！"
+0,"TEXT_RAIDGUIDEENTRANCE32_LIGHTKIX_000_000","呼哧……呼哧……<hex:02100103>我是監視員 工作是監視！<hex:02100103>迎擊擊退 要另拿錢！"
 1,"TEXT_RAIDGUIDEENTRANCE32_Q1_000_010","要做什麼？"
 2,"TEXT_RAIDGUIDEENTRANCE32_A1_000_011","詢問「亞歷山大零式機神城律動之章」的開始條件"
 3,"TEXT_RAIDGUIDEENTRANCE32_A1_000_012","以通常的分配方式開始「<hex:022815FF10>InstanceContent<hex:E8020403>」"

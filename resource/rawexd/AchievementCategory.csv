@@ -32,7 +32,7 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 27,"雕金匠",5,True,False,5
 28,"製革匠",5,True,False,6
 29,"裁衣匠",5,True,False,7
-30,"鍊金術士",5,True,False,8
+30,"煉金術士",5,True,False,8
 31,"烹調師",5,True,False,9
 32,"採礦工",5,True,False,10
 33,"園藝工",5,True,False,11

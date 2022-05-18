@@ -94,7 +94,7 @@ int32,Color,byte,byte,str,bit&01,bit&02
 89,16511412,6,11,"香草黃",False,True
 90,3746,8,18,"龍騎藍",False,True
 91,307149,8,19,"松石藍",False,True
-92,6316136,10,21,"炮銅黑",True,False
+92,6316136,10,21,"砲銅黑",True,False
 93,15328218,10,22,"珍珠白",True,False
 94,15192471,10,23,"金屬銅",True,False
 95,0,0,0,"",False,False

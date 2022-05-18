@@ -53,7 +53,7 @@ int32,str,str
 48,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_110_552","此外，退出任務後會解除「繼承文理技能」狀態。<hex:02100103>請多加注意。"
 49,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_DRAKE_000_560","使用不同組合的文理碎晶來提取記憶的話，<hex:02100103>對於最終結果可能會產生變化。<hex:02100103>難道是記憶的關聯性造成的影響嗎……"
 50,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_000_561","在「文理技能」當中，<hex:02100103>部分技能需要在「提取記憶」時<hex:02100103>設定複數的特定「文理碎晶」才能獲得。"
-51,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_100_561","例如同時設定3個「文理麻痹」，<hex:02100103>經過提取記憶後可以獲得「文理強麻痹」。<hex:02100103>請不斷地嘗試各種各樣的組合吧！"
+51,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_100_561","例如同時設定3個「文理麻痺」，<hex:02100103>經過提取記憶後可以獲得「文理強麻痺」。<hex:02100103>請不斷地嘗試各種各樣的組合吧！"
 52,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_DRAKE_100_560","使用新種類的文理碎晶就應該能夠提取出新的記憶。<hex:02100103>如果提取成功的話，我會像以往一樣給你記錄下來。<hex:02100103>運用新的數據進行研究的話，或許……"
 53,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_110_560","當記錄的「文理技能」達到56種以上時，<hex:02100103>可以與中點的德雷克對話，<hex:02100103>開放新的道具交換。"
 54,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_120_560","另外，如果要想開放新的道具交換，<hex:02100103>需要先找北點的調查隊的工匠，<hex:02100103>開放元素防具的交換之後才能進行。"

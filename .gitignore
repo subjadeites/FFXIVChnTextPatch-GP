@@ -1,6 +1,12 @@
 /backup/*
 /bin/
+/docs/scripts/*
 /jre/
-/resource/text/
+/jre-old/
+/resource/font-4k/
+/resource/font-custom/
 /resource/rawexd-zhcn/
-
+/resource/text/
+debug.*
+notes.txt
+*.jar

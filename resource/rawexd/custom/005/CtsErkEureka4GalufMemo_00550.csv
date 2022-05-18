@@ -16,4 +16,4 @@ int32,str,str
 11,"TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_009","(-加拉夫的筆記-)閱讀了這篇筆記的人啊。<hex:02100103>如果你看到了這篇筆記，也就意味著數次的偶然交織在一起，<hex:02100103>使得瓦爾島再次回歸了物質界。"
 12,"TEXT_CTSERKEUREKA4GALUFMEMO_00550_EUREKAMEMO_000_010","(-加拉夫的筆記-)為了將世界從滅亡的危機中拯救出來，<hex:02100103>請你將這座島嶼的事情傳達給拂曉血盟的人，<hex:02100103>請他們來封印創神優雷卡，使其遠離心術不正之人。"
 13,"TEXT_CTSERKEUREKA4GALUFMEMO_00550_YESNO_000","要閱讀加拉夫的筆記嗎？"
-14,"TEXT_CTSERKEUREKA4GALUFMEMO_00550_TALK_ACTOR","（★未使用／削除予定★）"
+14,"TEXT_CTSERKEUREKA4GALUFMEMO_00550_TALK_ACTOR",""
