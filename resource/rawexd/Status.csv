@@ -2449,7 +2449,7 @@ int32,str,str,Image,byte,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit
 2444,"失傳速度之星","攻擊所造成的傷害提高，暴擊發動率提高，自動攻擊間隔縮短，同時戰技與魔法的詠唱及複唱時間也會縮短",16621,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,50,0,False,False,10,31,False,0,False,False,0,0,0,False
 2445,"劍型","以劍為主進行攻擊",15315,0,0,1,1,16,101,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2446,"盾型","以盾為主進行攻擊",15316,0,0,1,1,16,268,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
-2447,"品質轉換","將品質進行轉換，重物變輕，輕物變重",15317,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2447,"質量轉換","將品質進行轉換，重物變輕，輕物變重",15317,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2448,"蓄力","積攢力量，下一次發動的技能威力上升",15318,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2449,"復活限制","無法接受部分復活效果",15959,100,0,1,2,17,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2450,"模仿","模仿對手的行動，對於物理攻擊將進行物理反擊，對於魔法攻擊將進行魔法反擊",15300,0,0,1,1,16,254,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
