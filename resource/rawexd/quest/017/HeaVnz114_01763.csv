@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_HEAVNZ114_01763_SEQ_00","聖菲內雅連隊露營地的呂西艾正一邊確認物資一邊再次搖頭歎息。"
+0,"TEXT_HEAVNZ114_01763_SEQ_00","聖菲內雅連隊露營地的呂西艾正一邊確認物資一邊再次搖頭嘆息。"
 1,"TEXT_HEAVNZ114_01763_SEQ_01","呂西艾拜託冒險者去準備毛皮。前往庫爾札斯西部高地的雙子池，討伐<hex:02280FFF09>BNpcName<hex:F20D970103>並獲取3張<hex:022811FF0A>EventItem<hex:F61E8AC20103>。"
 2,"TEXT_HEAVNZ114_01763_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E8AC20103>。將<hex:022811FF0A>EventItem<hex:F61E8AC20103>交給聖菲內雅連隊露營地的呂西艾。"
 3,"TEXT_HEAVNZ114_01763_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E8AC20103>交給了呂西艾。她打算將這些毛皮做成防寒用具。"

@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_1","裡面的沙斯塔夏溶洞是<hex:02100103>「黃衫隊第四陸戰隊」的管轄範圍。<hex:02100103>簡單利落地告訴我你有何貴幹吧，冒險者。"
+0,"TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_1","裡面的沙斯塔夏溶洞是<hex:02100103>「黃衫隊第四陸戰隊」的管轄範圍。"
 1,"TEXT_CMNRADENTERSHPOSHAE_00077_Q1_1","有什麼事？"
 2,"TEXT_CMNRADENTERSHPOSHAE_00077_A1_1","詢問「天然要害沙斯塔夏溶洞」的開始條件"
 3,"TEXT_CMNRADENTERSHPOSHAE_00077_A1_2","開始「天然要害沙斯塔夏溶洞」"

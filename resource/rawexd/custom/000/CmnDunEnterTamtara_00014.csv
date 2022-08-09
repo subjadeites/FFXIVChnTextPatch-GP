@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00000","裡面的塔姆·塔拉墓園是<hex:02100103>格里達尼亞「鬼哭隊第二槍隊」的管轄範圍。<hex:02100103>簡單利落地告訴我你有何貴幹吧，冒險者。"
+0,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00000","裡面的塔姆·塔拉墓園是<hex:02100103>格里達尼亞「鬼哭隊第二槍隊」的管轄範圍。"
 1,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00001","有什麼事？"
 2,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00002","詢問「地下靈殿塔姆·塔拉墓園」的開始條件"
 3,"TEXT_CMNDUNENTERTAMTARA_00014_SCENE00003","開始「地下靈殿塔姆·塔拉墓園」"

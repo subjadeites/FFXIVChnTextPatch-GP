@@ -20,3 +20,5 @@ int32,Quest,str,str,str,bit&01,DescriptionSection
 3604495,0,"","","",True,16
 3604496,0,"義軍勳章","RESISTANCE HONORS","レジスタンス勲章解説",True,17
 3604497,0,"扎杜諾爾高原戰線","ZADNOR","ザトゥノル高原解説",True,18
+3604498,0,"玩家對戰","PvP","PvP解説",True,19
+3604499,0,"水晶衝突","CRYSTALLINE CONFLICT","クリスタルコンフリクト解説",True,20
