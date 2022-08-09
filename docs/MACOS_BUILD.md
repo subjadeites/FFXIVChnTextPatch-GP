@@ -3,6 +3,7 @@
 原本的 binary 只有 windows 版，如果使用 macOS 可以參考下列步驟把漢化器跑起來
 
 ## 準備
+專案本身 build.gradle 中不包含， `com.univocity.parsers.csv` 這個 package 需要 [下載](https://oss.sonatype.org/service/local/repositories/releases/content/com/univocity/univocity-parsers/2.9.1/univocity-parsers-2.9.1.jar) ，並放到 `專案目錄/libs` 中。
 
 打開 build.gradle 編輯下列區塊
 
@@ -20,9 +21,15 @@ dependencies {
 	compile("org.apache.httpcomponents:httpclient-cache:4.5.3")
 	compile("org.apache.httpcomponents:httpmime:4.5.3")
 	compile("org.apache.httpcomponents:fluent-hc:4.5.3")
-	compile group: 'com.univocity', name: 'univocity-parsers', version: '2.9.1' // 修改成這行可以不用另外下載jar
+	compile(files("libs/univocity-parsers-2.9.1.jar"))  // 增加這行
 }
 ```
+又或者修改為：
+```
+compile group: 'com.univocity', name: 'univocity-parsers', version: '2.9.1' // 修改成這行可以不用另外下載jar
+```
+
+> 推薦使用 [asdf](https://github.com/asdf-vm/asdf) 管理下列工具版本
 
 這個專案需要 jdk 11 ，可以透過下列方式安裝，無法使用下列指令的話，請先安裝 [Homebrew](https://brew.sh/index_zh-tw)
 

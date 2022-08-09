@@ -1,3 +1,5 @@
+.DS_Store
+
 /backup/*
 /bin/
 /docs/scripts/*
@@ -10,3 +12,7 @@
 debug.*
 notes.txt
 *.jar
+
+.gradle
+.idea
+build
