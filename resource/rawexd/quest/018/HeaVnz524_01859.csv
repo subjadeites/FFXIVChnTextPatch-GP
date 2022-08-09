@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_HEAVNZ524_01859_SEQ_00","豎骨島的一絲不苟的莫古力在唉聲歎氣。"
+0,"TEXT_HEAVNZ524_01859_SEQ_00","豎骨島的一絲不苟的莫古力在唉聲嘆氣。"
 1,"TEXT_HEAVNZ524_01859_SEQ_01","一絲不苟的莫古力委託冒險者採來<hex:022811FF0A>EventItem<hex:F61E8AF20103>。在豎骨島取得3個<hex:022811FF0A>EventItem<hex:F61E8AF20103>。"
 2,"TEXT_HEAVNZ524_01859_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E8AF20103>。將<hex:022811FF0A>EventItem<hex:F61E8AF20103>交給豎骨島一絲不苟的莫古力。"
 3,"TEXT_HEAVNZ524_01859_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E8AF20103>交給了一絲不苟的莫古力。一絲不苟的莫古力決定將<hex:022811FF0A>EventItem<hex:F61E8AF20103>種到安全的地方。"

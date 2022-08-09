@@ -60,7 +60,7 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 55,0,"法夫尼爾的魔力",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 56,0,"菲尼克司的魔力",1,True,"ContentGaugeMax_negative",50,1,3,80,1,2,0
 57,0,"維涅斯的乙太",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-58,0,"",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
+58,0,"蓋烏斯的劍氣",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
 59,0,"",0,False,"",0,0,0,0,0,0,0
 60,0,"",0,False,"",0,0,0,0,0,0,0
-61,0,"",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+61,0,"拉哈布雷亞的魔力",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0

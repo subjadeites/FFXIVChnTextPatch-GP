@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,"TEXT_BANGNA503_02273_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>自由腦窟穴的眼神好想給冒險者展現一項技能。"
-1,"TEXT_BANGNA503_02273_SEQ_01","※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>眼神好委託冒險者獲取供給田園郡的<hex:022811FF0A>EventItem<hex:F61E8C2C0103>。首先需要<hex:022811FF0A>EventItem<hex:F61E8C2B0103>作為誘餌。在悲歎飛泉的<hex:02280CFF05>EObj<hex:F61E9F920103>中獲取<hex:022811FF0A>EventItem<hex:F61E8C2B0103>。"
+1,"TEXT_BANGNA503_02273_SEQ_01","※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>眼神好委託冒險者獲取供給田園郡的<hex:022811FF0A>EventItem<hex:F61E8C2C0103>。首先需要<hex:022811FF0A>EventItem<hex:F61E8C2B0103>作為誘餌。在悲嘆飛泉的<hex:02280CFF05>EObj<hex:F61E9F920103>中獲取<hex:022811FF0A>EventItem<hex:F61E8C2B0103>。"
 2,"TEXT_BANGNA503_02273_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E8C2B0103>。在寬慰河中游的<hex:02280CFF05>EObj<hex:F61E9F930103>使用<hex:022811FF0A>EventItem<hex:F61E8C2B0103>，從出現的<hex:02280FFF09>BNpcName<hex:F212720103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8C2C0103>。"
 3,"TEXT_BANGNA503_02273_SEQ_03","獲得了<hex:022811FF0A>EventItem<hex:F61E8C2C0103>。將<hex:022811FF0A>EventItem<hex:F61E8C2C0103>交給自由腦窟穴的眼神好。"
 4,"TEXT_BANGNA503_02273_SEQ_04","將<hex:022811FF0A>EventItem<hex:F61E8C2C0103>交給了眼神好。他表示，南加的味道象徵著自由和個性。但是他們中間也有不喜歡這個味道的人，不過這也是個性的一種表現。"
@@ -53,7 +53,7 @@ int32,str,str
 48,"TEXT_BANGNA503_02273_SEARCHER_000_000","嘁嘁嘁呼哧……嘁嘁呼哧……<hex:02100103>人類 冒險者 來得正好 想把田園郡的……<hex:02100103>重要委託 收集南加蛋 交給你！"
 49,"TEXT_BANGNA503_02273_SEARCHER_000_001","（★未使用／削除予定★）"
 50,"TEXT_BANGNA503_02273_SEARCHER_000_002","嘁嘁嘁……怎麼樣，像不像哥布林族？<hex:02100103>想委託你的不是別的事，<hex:02100103>正是獲取現在哥布林族最喜歡的<hex:022811FF0A>EventItem<hex:F61E8C2C0103>，用我們的方法哦。"
-51,"TEXT_BANGNA503_02273_SEARCHER_000_003","首先，從沉在悲歎飛泉中的<hex:02280CFF05>EObj<hex:F61E9F920103>中，<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E8C2B0103>作為誘餌。<hex:02100103>然後把誘餌撒到寬慰河的中游。"
+51,"TEXT_BANGNA503_02273_SEARCHER_000_003","首先，從沉在悲嘆飛泉中的<hex:02280CFF05>EObj<hex:F61E9F920103>中，<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E8C2B0103>作為誘餌。<hex:02100103>然後把誘餌撒到寬慰河的中游。"
 52,"TEXT_BANGNA503_02273_SEARCHER_000_004","這種蝦是產卵期的南加最喜歡的食物。<hex:02100103>接下來就靠你的手迅速將出現的獵物抓住，<hex:02100103>把軟軟的蛋拿出來帶回來就可以了。"
 53,"TEXT_BANGNA503_02273_SEARCHER_000_010","嘁嘁嘁呼哧……嘁嘁呼哧……<hex:02100103>歡迎回來 辛苦 你了！<hex:02100103>拿到了 <hex:022811FF0A>EventItem<hex:F61E8C2C0103>嗎？"
 54,"TEXT_BANGNA503_02273_SEARCHER_000_011","鬆鬆 軟軟 <hex:022811FF0A>EventItem<hex:F61E8C2C0103>！<hex:02100103>非常 謝謝 冒險者 出色地完成委託 謝謝！"

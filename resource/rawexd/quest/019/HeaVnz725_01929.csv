@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,"TEXT_HEAVNZ725_01929_SEQ_00","不潔三塔的格林坎比正悲鳴不已。"
-1,"TEXT_HEAVNZ725_01929_SEQ_01","聽格林坎比說明了情況。前往龍堡參天高地的悲歎飛泉，在附近討伐<hex:02280FFF09>BNpcName<hex:F20E040103>，獲取3個<hex:022811FF0A>EventItem<hex:F61E8B0B0103>。"
+1,"TEXT_HEAVNZ725_01929_SEQ_01","聽格林坎比說明了情況。前往龍堡參天高地的悲嘆飛泉，在附近討伐<hex:02280FFF09>BNpcName<hex:F20E040103>，獲取3個<hex:022811FF0A>EventItem<hex:F61E8B0B0103>。"
 2,"TEXT_HEAVNZ725_01929_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E8B0B0103>。將<hex:022811FF0A>EventItem<hex:F61E8B0B0103>交給不潔三塔的格林坎比。"
 3,"TEXT_HEAVNZ725_01929_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E8B0B0103>交給了格林坎比。吃了這些有營養的<hex:022811FF0A>EventItem<hex:F61E8B0B0103>，它一定能恢復平靜。"
 4,"TEXT_HEAVNZ725_01929_SEQ_04",""
@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_HEAVNZ725_01929_TODO_22",""
 47,"TEXT_HEAVNZ725_01929_TODO_23",""
 48,"TEXT_HEAVNZ725_01929_GULLINKAMBI_000_000","肚子餓了……肚子餓的不行了！<hex:02100103>為了讓蛋保持溫暖，需要很多體力啊……<hex:02100103>我說你啊，幫我去弄一些新鮮的肉吧。"
-49,"TEXT_HEAVNZ725_01929_GULLINKAMBI_000_001","棲息在悲歎飛泉附近的<hex:02280FFF09>BNpcName<hex:F20E040103>肉質鮮美，<hex:02100103>算是這附近味道最好的食物了。<hex:02100103>明白了的話就拜託你去帶回來3份<hex:022811FF0A>EventItem<hex:F61E8B0B0103>。"
-50,"TEXT_HEAVNZ725_01929_GULLINKAMBI_000_010","棲息在悲歎飛泉附近的<hex:02280FFF09>BNpcName<hex:F20E040103>肉質鮮美，<hex:02100103>算是這附近味道最好的食物了。<hex:02100103>明白了的話就拜託你去帶回來3份<hex:022811FF0A>EventItem<hex:F61E8B0B0103>。"
-51,"TEXT_HEAVNZ725_01929_GULLINKAMBI_000_020","棲息在悲歎飛泉附近的<hex:02280FFF09>BNpcName<hex:F20E040103>肉質鮮美，<hex:02100103>算是這附近味道最好的食物了。<hex:02100103>明白了的話就拜託你去帶回來3份<hex:022811FF0A>EventItem<hex:F61E8B0B0103>。"
+49,"TEXT_HEAVNZ725_01929_GULLINKAMBI_000_001","棲息在悲嘆飛泉附近的<hex:02280FFF09>BNpcName<hex:F20E040103>肉質鮮美，<hex:02100103>算是這附近味道最好的食物了。<hex:02100103>明白了的話就拜託你去帶回來3份<hex:022811FF0A>EventItem<hex:F61E8B0B0103>。"
+50,"TEXT_HEAVNZ725_01929_GULLINKAMBI_000_010","棲息在悲嘆飛泉附近的<hex:02280FFF09>BNpcName<hex:F20E040103>肉質鮮美，<hex:02100103>算是這附近味道最好的食物了。<hex:02100103>明白了的話就拜託你去帶回來3份<hex:022811FF0A>EventItem<hex:F61E8B0B0103>。"
+51,"TEXT_HEAVNZ725_01929_GULLINKAMBI_000_020","棲息在悲嘆飛泉附近的<hex:02280FFF09>BNpcName<hex:F20E040103>肉質鮮美，<hex:02100103>算是這附近味道最好的食物了。<hex:02100103>明白了的話就拜託你去帶回來3份<hex:022811FF0A>EventItem<hex:F61E8B0B0103>。"
 52,"TEXT_HEAVNZ725_01929_GULLINKAMBI_000_021","這香味真不錯……謝了。<hex:02100103>孵蛋的時候總會很無聊，所以有時候會很焦躁不安。<hex:02100103>不過吃飽後就會平靜許多。"
