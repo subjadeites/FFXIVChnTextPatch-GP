@@ -39,7 +39,7 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 34,"捕魚人",5,True,False,12
 35,"整體",8,True,False,1
 36,"理符任務",8,True,False,2
-37,"蠻族任務",8,True,False,3
+37,"友好部族任務",8,True,False,3
 38,"季節活動",8,True,True,4
 39,"探索筆記",11,True,False,1
 40,"拉諾西亞",11,True,False,2
