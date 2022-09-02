@@ -1,7 +1,7 @@
 ﻿key,0,1
-#,,
+#,Item,,
 offset,0,4
-int32,uint32,int32
+int32,Item,int32,byte
 0,0,0
 1,0,0
 2,0,0

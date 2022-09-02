@@ -1,7 +1,7 @@
 ﻿key,0,1,2
-#,,,
+#,Emote,UnlockCondition,SortKey
 offset,0,2,4
-int32,uint16,uint16,byte
+int32,Emote,BannerCondition,byte
 0,0,1,1
 1,68,1,2
 2,69,1,3

@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5
-#,Member,BigImage{Old},BigImage{New},Class,,
+#,,,Member,BigImage{Old},BigImage{New},Class
 offset,12,14,0,4,8,15
-int32,ENpcResident,Image,Image,DawnMemberUIParam,uint32,byte
+int32,uint16,byte,ENpcResident,Image,Image,DawnMemberUIParam
 0,0,0,0,0,0,0
 1,0,0,1030660,72621,72681,1
 2,1,0,1030661,72622,72682,2

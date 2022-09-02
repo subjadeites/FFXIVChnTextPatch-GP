@@ -1,7 +1,7 @@
 ﻿key,0,1,2
-#,,,
+#,Icon,SortKey,Name
 offset,4,8,0
-int32,int32,byte,str
+int32,Image,byte,str
 0,61762,0,"未設定"
 1,61801,20,"迷宮挑戰"
 2,61804,21,"討伐殲滅戰"

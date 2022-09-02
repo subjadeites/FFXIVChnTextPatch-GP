@@ -1,7 +1,7 @@
 ﻿key,0,1
-#,Item,Image
+#,Image,Signature
 offset,0,4
-int32,Item,Image
+int32,Image,int32
 0,0,0
 1,81001,1
 2,81002,1

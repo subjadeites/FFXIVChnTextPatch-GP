@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5
-#,,,,,,
+#,Category,Image,,UnlockCondition,SortKey,Name
 offset,12,4,13,8,10,0
-int32,byte,int32,byte,uint16,uint16,str
+int32,byte,Image,byte,BannerCondition,uint16,str
 0,0,0,0,1,0,""
 1,2,194002,0,1,1,"光澤"
 2,2,194003,0,1,6,"四邊形"

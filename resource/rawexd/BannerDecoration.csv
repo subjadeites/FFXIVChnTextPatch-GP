@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
-#,,,,,
+#,Image,Icon,UnlockCondition,SortKey,Name
 offset,4,8,12,14,0
-int32,int32,int32,uint16,uint16,str
+int32,Image,Image,BannerCondition,uint16,str
 0,0,82093,0,0,""
 1,192001,82093,1,1,""
 2,192002,82093,1,2,"月桂葉"

@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,,,,,,,,
+#,Image,FontColor,,,,UnlockCondition,SortKey,Name
 offset,4,12,14,15,13,8,10,0
-int32,int32,byte,bool,bool,byte,uint16,uint16,str
+int32,Image,byte,bool,bool,byte,BannerCondition,uint16,str
 0,0,0,True,True,0,0,0,"なし"
 1,0,0,False,False,0,0,0,""
 2,193002,1,True,True,0,1,1,"黑色"

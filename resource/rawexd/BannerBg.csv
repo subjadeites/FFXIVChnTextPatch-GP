@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
-#,,,,,
+#,Image,Icon,UnlockCondition,SortKey,Name
 offset,4,8,12,14,0
-int32,int32,int32,uint16,uint16,str
+int32,Image,Image,BannerCondition,uint16,str
 0,0,82091,0,0,""
 1,190002,82091,1,1,"灰色"
 2,190003,82091,1,3,"四邊形"
