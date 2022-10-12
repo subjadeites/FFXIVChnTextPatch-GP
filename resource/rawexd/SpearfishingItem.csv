@@ -234,8 +234,8 @@ int32,str,Item,GatheringItemLevelConvertTable,bit&01,bit&02,FishingRecordType,Te
 20228,"這種兇猛的古代魚因為其銳利的牙齒而得到了現在的名字。它強而有力的衝刺能幫助它以極快的速度衝出海面，宛如飛翔一般抓住獵物。這種獵物甚至包括飛行高度不夠的海鳥。",36546,554,False,False,27,957,0,True,False,False
 20229,"主要棲息在海底，行動緩慢的鯊魚。鎧鯊作為一種深海魚皮膚比較堅硬，能幫助它頂住深海的水壓，但實際上並沒有硬到足以稱為鎧甲的程度。",36580,560,False,False,12,613,0,True,False,False
 20230,"主要棲息在獵船島附近，喜歡生活在珊瑚礁等地方的小型熱帶魚。雄性一般生有鮮豔的藍色和黃色用於求偶，雌性則一般是接近黑色的晦暗保護色。",36535,560,False,True,25,957,0,True,False,False
-20231,"",0,0,False,False,0,0,0,False,False,False
-20232,"",0,0,False,False,0,0,0,False,False,False
+20231,"在棲息於鹽湖的烏賊類中屬於小型種，但是墨袋很大。因為能產出高級墨水，所以在基拉巴尼亞屬於貴重品種。體內含有大量鹽水，味道非常鹹。",36659,495,False,False,20,621,0,True,False,False
+20232,"貝殼內外散發著美麗的光輝，有如神話中女神登場時的極光一般。作為螺鈿工藝品的素材非常有名，裝飾在食器上時，會感覺食物都變好吃了。",36661,500,False,False,10,613,0,True,False,False
 20233,"",0,0,False,False,0,0,0,False,False,False
 20234,"",0,0,False,False,0,0,0,False,False,False
 20235,"",0,0,False,False,0,0,0,False,False,False

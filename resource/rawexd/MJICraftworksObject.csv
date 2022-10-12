@@ -1,7 +1,7 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,Item,,,,,,,,,,,,,,
-offset,0,2,4,6,8,16,10,18,12,20,14,22
-int32,Item,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+#,Item,Theme[0],Theme[1],,Material[0],Amount[0],Material[1],Amount[1],Material[2],Amount[2],Material[3],Amount[3],LevelReq,CraftingTime,Value
+offset,0,2,4,6,8,16,10,18,12,20,14,22,24,26,28
+int32,Item,MJICraftworksObjectTheme,MJICraftworksObjectTheme,uint16,MJIItemPouch,uint16,MJIItemPouch,uint16,MJIItemPouch,uint16,MJIItemPouch,uint16,uint16,uint16,uint16
 0,0,0,0,0,0,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,0,0,0,0,0,0
 2,0,0,0,0,0,0,0,0,0,0,0,0

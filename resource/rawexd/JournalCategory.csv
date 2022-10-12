@@ -2,7 +2,7 @@
 #,Name,SeparateType,DataType,JournalSection,
 offset,0,4,5,6,7
 int32,str,byte,byte,JournalSection,byte
-0,"無効カテゴリ",0,0,255,0
+0,"無效分類",0,0,255,0
 1,"重生之境主線任務",1,1,0,0
 2,"第七星曆主線任務",1,1,0,0
 3,"蒼穹之禁城主線任務",1,1,0,0

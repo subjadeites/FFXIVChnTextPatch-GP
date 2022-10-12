@@ -126,8 +126,8 @@ public class JianFan {
 	}
 	
 	public static void main(String[] args) {
-		String targetPath = "D:\\FFXIV\\SaintCoinach\\SaintCoinach.Cmd\\bin\\Debug\\2022.07.22.0000.0000\\rawexd-cn-610\\";
-		String outputPath = "D:\\FFXIV\\SaintCoinach\\SaintCoinach.Cmd\\bin\\Debug\\2022.07.22.0000.0000\\rawexd-tw-610\\";
+		String targetPath = "D:\\FFXIV\\SaintCoinach\\SaintCoinach.Cmd\\bin\\Debug\\2022.09.28.0000.0000\\rawexd-chs-615\\";
+		String outputPath = "D:\\FFXIV\\SaintCoinach\\SaintCoinach.Cmd\\bin\\Debug\\2022.09.28.0000.0000\\rawexd-cht-615\\";
 		// System.out.println(getInstance().j2f("话语"));
 		try {
 			Files.walk(Paths.get(targetPath)).filter(Files::isRegularFile).forEach((path) -> {

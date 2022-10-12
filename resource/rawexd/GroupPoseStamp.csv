@@ -541,7 +541,7 @@ int32,Image,int32,GroupPoseStampCategory,uint16,int32,bit&01,bit&02,bit&04,str
 536,0,0,0,0,0,False,False,False,""
 537,0,0,0,0,0,False,False,False,""
 538,0,0,0,0,0,False,False,False,""
-539,0,0,0,0,0,False,False,False,"<hex:0212027103>嘉年華：圖示"
+539,0,0,0,0,0,False,False,False,"<hex:0212027103>嘉年華：圖標"
 540,0,0,0,0,0,False,False,False,"<hex:0212027103>嘉年華：標誌（白）"
 541,0,0,0,0,0,False,False,False,"<hex:0212027103>嘉年華：標誌（黑）"
 542,0,0,0,0,0,False,False,False,"<hex:0212027103>嘉年華：弔旗（白）"

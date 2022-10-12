@@ -5,8 +5,7 @@
 /docs/scripts/*
 /jre/
 /jre-old/
-/resource/font-4k/
-/resource/font-custom/
+/resource/font-*/
 /resource/rawexd-zhcn/
 /resource/text/
 debug.*
