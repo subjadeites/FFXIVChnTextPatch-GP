@@ -1,7 +1,7 @@
-﻿key,0
-#,
-offset,0
-int32,bit&01
-0,True
-1,False
-2,False
+﻿key
+#
+offset
+int32
+0
+1
+2

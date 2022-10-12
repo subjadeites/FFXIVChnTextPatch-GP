@@ -6,7 +6,7 @@
 /jre/
 /jre-old/
 /resource/font-*/
-/resource/rawexd-zhcn/
+/resource/rawexd-*/
 /resource/text/
 debug.*
 notes.txt
