@@ -55,4 +55,4 @@ int32,str,str
 50,TEXT_STMBDY404_02613_RODNEY_000_001,你要是準備好了，就前往豐水地帶的據點，<hex:02100103>與那裡的可露兒小姐匯合吧！<hex:02100103>祝你好運！
 51,TEXT_STMBDY404_02613_SYSTEM_000_010,和「<hex:02281CFF17>ContentFinderCondition<hex:E8022803>」相同，<hex:02100103>從單人最多到滿編小隊（8人），<hex:02100103>可以以任意人數挑戰「<hex:02281CFF17>ContentFinderCondition<hex:E8032803>」了。
 52,TEXT_STMBDY404_02613_SYSTEM_000_011,和羅德尼對話，<hex:02100103>選擇「<hex:02281CFF17>ContentFinderCondition<hex:E8032803>」就可開始進行探索。
-53,TEXT_STMBDY404_02613_SYSTEM_000_012,另外「<hex:02281CFF17>ContentFinderCondition<hex:E8032803>」設有品級同步限制，<hex:02100103>所有裝備的性能將被調整到「<hex:02281CFF17>ContentFinderCondition<hex:E8021303>級」之下。
+53,TEXT_STMBDY404_02613_SYSTEM_000_012,另外「<hex:02281CFF17>ContentFinderCondition<hex:E8032803>」設有品級同步限制，<hex:02100103>所有裝備的性能將被調整到「<hex:02281CFF17>ContentFinderCondition<hex:E8021403>級」之下。
