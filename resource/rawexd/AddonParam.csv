@@ -149,7 +149,7 @@ int32,str
 150,FreeCompanyCrestColor
 151,FreeCompanyCrestSymbolColor
 152,FreeCompanyCrestDecal
-153,FishGuide
+153,FishGuide2
 154,FishRecord
 155,ShopExchangeCurrency
 156,ShopExchangeItem
@@ -213,7 +213,7 @@ int32,str
 214,RelicSphereScroll
 215,MacroTextCommandList
 216,MJIBuildingMove
-217,MJIEntranceSettings
+217,MJISettings
 218,ArchiveItem
 219,AdventureNoteBook
 220,ArmouryNoteBook
@@ -224,12 +224,19 @@ int32,str
 225,MountNoteBook
 226,VVDAction
 227,InputSearchComment
+228,FishGuideFilterSetting
 229,Mobhunt
 230,CharacterSalvage
+231,RetainerItemTransferList
 232,DailyQuestSupply
 233,Teleport
 234,HousingWithdrawStorage
+235,MiragePrismPrismBoxFilter
+236,DescriptionDD
 237,RelicGlass
+238,BannerPartySetting
+239,BannerMIP
+240,BannerMIPSetting
 248,GoldSaucerInfo
 249,GSInfoEditDeck
 262,TripleTriadRanking

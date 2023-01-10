@@ -1,5 +1,5 @@
 # FFXIV Translation Patch Tool
-FFXIV的中文漢化器。適用於最新的6.X版本（7/8），並已套用中國服更新（8/9）。
+FFXIV的中文漢化器。適用於最新的6.X版本（1/11），並已套用中國服更新（12/20）。
 
 English description can be found in [Wiki pages](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki).
 

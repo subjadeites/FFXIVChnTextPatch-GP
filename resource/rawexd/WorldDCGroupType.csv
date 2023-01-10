@@ -2,7 +2,7 @@
 #,Name
 offset,0
 int32,str
-0,INVALID
+0,Unknown
 1,Elemental
 2,Gaia
 3,Mana
