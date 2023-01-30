@@ -12,6 +12,7 @@ debug.*
 notes.txt
 *.jar
 *.rar
+*.zip
 
 .gradle
 .idea
